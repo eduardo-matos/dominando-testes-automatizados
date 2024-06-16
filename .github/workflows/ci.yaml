@@ -48,4 +48,4 @@ jobs:
       env:
         DATABASE_URL: postgres://postgres:postgres@localhost:5432/myapp
         LOG_LEVEL: info
-      run: npm --prefix 02-api-with-database
+      run: npm --prefix 02-api-with-database test
