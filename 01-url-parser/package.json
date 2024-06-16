@@ -1,0 +1,12 @@
+{
+  "name": "url-parser",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Eduardo Matos",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
